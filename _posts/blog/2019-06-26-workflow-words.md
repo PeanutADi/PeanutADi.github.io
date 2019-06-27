@@ -1,7 +1,7 @@
 ---
 layout: post
 title:工作流术语表
-categories: SYSU exam
+categories: Blog
 description: 工作流术语表
 keywords: workflow, SYSU
 ---
