@@ -26,11 +26,11 @@
 
 Server 部分：
 
-![git报告](../assets/zml/commit.png)
+![commit.png](https://i.loli.net/2019/06/27/5d14b89baa08a56637.png)
 
 Dashboard部分：
 
-![git报告](../assets/zml/commit2.png)
+![commit2.png](https://i.loli.net/2019/06/27/5d14b89baa7dc94560.png)
 
 ## 最得意的工作清单
 
