@@ -1,6 +1,6 @@
 ---
 layout: post
-title: swsad project总结
+title: swsad project市场调研
 categories: Blog
 description: “挣闲钱项目”市场调研过程
 keywords: swsad, 市场调研, 竞品分析
