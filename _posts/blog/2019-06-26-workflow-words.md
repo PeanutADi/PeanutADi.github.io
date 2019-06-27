@@ -1,3 +1,11 @@
+---
+layout: post
+title:工作流术语表
+categories: SYSU exam
+description: 工作流术语表
+keywords: workflow, SYSU
+---
+
 # 工作流术语表
 
 1)        **活动（Activity****）：**活动室被指派任务的执行，与特定的案例相关。近义词有任务实例、变迁实施、操作。
