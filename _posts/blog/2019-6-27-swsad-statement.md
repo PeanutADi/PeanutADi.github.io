@@ -39,5 +39,10 @@ Dashboard部分：
 - 市场调研 & 竞品报告：我花费了大量的时间去思考问卷的设计，并费心在市场上寻找了大量的竞品APP进行比对，最终选择了几个最具有借鉴意义的竞品。
 
 ## 个人博客清单
+
+https://peanutadi.github.io/2019/06/25/swsad-market/
+
+https://peanutadi.github.io/2019/06/26/swsad-nodejs/
+
 ## 致谢
 特别感谢 盘学之@flyingmanPan 带躺。本小组所有成员工作积极，有过争执但最终呈现的产品质量非常高，大家都辛苦了。
