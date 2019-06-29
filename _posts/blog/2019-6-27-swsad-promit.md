@@ -2,7 +2,7 @@
 layout: post
 title: 提高团队协作效率
 categories: Blog
-description: Using rarious tools to promote teamwork efficiency
+description: Using various tools to promote teamwork efficiency
 keywords: swsad, github issue
 ---
 
